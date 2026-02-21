@@ -42,19 +42,38 @@ I am a **Software Engineer** specializing in **Go (Golang) Backend Development**
 
 ---
 
-### 💼 Featured Monoliths
+---
 
-#### ⛪ [Lalibela CLI](https://github.com/naodEthiop/lalibela)
-> **The Go Scaffolder.** A premium CLI tool for building production-ready Go APIs with clean architecture and Docker support instantly. Designed for developers who value precision and speed.
-> `Go` · `Gin` · `Docker` · `PostgreSQL`
+### 💼 Featured Repositories & Systems
 
-#### 🎮 [Bingo Multi-Engine](https://github.com/naodEthiop)
-> Real-time multiplayer gaming backend featuring heavy WebSocket integration and secure transaction logic for high-concurrency environments.
-> `Node.js` · `WebSockets` · `React` · `PostgreSQL`
-
-#### 🧠 [AI Duplicate Analyzer](https://github.com/naodEthiop)
-> High-performance duplicate record detection engine using Go concurrency patterns and vector-based search algorithms.
-> `Go` · `Python` · `VectorDB`
+<p align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <h4>⛪ <a href="https://github.com/naodEthiop/lalibela-cli">Lalibela CLI</a></h4>
+        <p><strong>The Go Scaffolder.</strong> A premium engine for building production-ready Go APIs with clean architecture, JWT, and Docker support instantly.</p>
+        <code>Go</code> · <code>Gin</code> · <code>Docker</code>
+      </td>
+      <td width="50%">
+        <h4>🔍 <a href="https://github.com/naodEthiop/web_recon_tool">Web Recon Tool</a></h4>
+        <p><strong>Cybersecurity Suite.</strong> An automated reconnaissance tool designed for fast information gathering and vulnerability surface mapping.</p>
+        <code>Python</code> · <code>Security</code> · <code>OSINT</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h4>🎮 <a href="https://github.com/naodEthiop/Multiplayer-Bingo-Game">Multiplayer Bingo</a></h4>
+        <p><strong>Real-time Engine.</strong> A high-concurrency gaming backend featuring heavy WebSocket integration and secure state management.</p>
+        <code>Node.js</code> · <code>WebSockets</code> · <code>PostgreSQL</code>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/naodEthiop?tab=repositories">
+          <img src="https://img.shields.io/badge/View_All_Projects-00ADD8?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
