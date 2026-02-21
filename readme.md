@@ -1,76 +1,69 @@
 <!-- ========================================================= -->
-<!-- 🌌 Fkremariam Fentahun | naodEthiop — Cyber Engineer README -->
+<!-- 🌌 NaodEthiop — Go Backend Engineer & Cybersecurity Enthusiast README -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:00FF88&height=120&section=header&text=Fkremariam%20Fentahun%20👨‍💻&fontSize=30&fontColor=0A0A0A&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00FFFF,100:00FF88&height=120&section=header&text=NaodEthiop%20👨‍💻&fontSize=30&fontColor=0A0A0A&fontAlignY=55" />
 </p>
-
-
 
 <p align="center">
-  <b>💻 Software | 🤖 Robotics | 🔐 Cybersecurity Engineer</b><br>
+  💻 Go Backend Engineer | 🔐 Cybersecurity Enthusiast | 🚀 Building secure, scalable systems in public
+</p>
+
+<p align="center">
   <a href="https://fkremariamfentahunportfolio.netlify.app" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:fkremariamfentahun66@gmail.com">✉️ Email</a> •
-  <a href="https://t.me/naod2i" target="_blank">💬 Telegram</a>
+  <a href="https://t.me/naod2i" target="_blank">💬 Telegram</a> •
+  <a href="https://github.com/naodEthiop" target="_blank">💻 GitHub</a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-Hey there 👋 — I’m **Fkremariam Fentahun (naodEthiop)**, a **cyber-inspired engineer** blending **software, hardware, and security** to build futuristic and resilient systems.  
-I’ve competed, taught, and developed projects across Ethiopia’s national and regional stages — from robotics to cybersecurity training.
+Hi! I’m **Naod (naodEthiop)**, a Go backend & cybersecurity engineer passionate about building **robust, scalable systems**. I combine **software, hardware, and cybersecurity** expertise to create secure applications and innovative solutions.
 
-🧩 **What I Do:**
-- Build scalable apps and embedded systems using **C++**, **Python**, and **Go**
-- Design **IoT/robotics prototypes** with real-world use cases
-- Integrate **cybersecurity practices** into every development stage
-- Mentor students and create STEM learning experiences
-
----
-
-### ⚡ Highlights
-
-- 🏆 **National Robotics Competition Winner** — Robot Forklift Project  
-- 🎓 **INSA Graduate** — Cyber Army of Ethiopia (3rd Cohort)  
-- 🧠 **ThinkYoung + Boeing** Aviation Innovation Program  
-- 🧾 **Exam Control System Developer** — National Science Fair  
-- 👨‍🏫 **STEM & Arduino Instructor** — Gondar STEM Center & AAstu  
+**What I do:**
+- Build scalable backends with **Go**, Python, and C++
+- Integrate **security best practices** into all development stages
+- Design **IoT & robotics prototypes** for real-world use
+- Mentor aspiring developers & share knowledge publicly
 
 ---
 
-### 💼 Featured Projects
+## ⚡ Highlights
+
+- 🏆 National Robotics Competition Winner — Robot Forklift Project  
+- 🎓 INSA Graduate — Cyber Army of Ethiopia (3rd Cohort)  
+- ✈️ ThinkYoung + Boeing Aviation Innovation Program  
+- 👨‍🏫 STEM & Arduino Instructor — Gondar STEM Center & AAstu  
+- 🔐 Cybersecurity Projects: Secure APIs, pentesting, and network defense  
+
+---
+
+## 💼 Featured Projects
 
 | Project | Description | Tech Stack |
-|----------|--------------|-------------|
+|---------|-------------|------------|
+| ⛪ **Lalibela CLI** | Go backend scaffolder for building modern APIs | Go · Gin · PostgreSQL · JWT · Docker |
 | 🎮 **Bingo Game** | Real-time multiplayer web game with gamification | Node.js · React · PostgreSQL · WebSockets |
-| 🧠 **Duplicate Analyzer** | AI-based duplicate record detection tool using embeddings | Python · Go · Vector Search |
-| 🤖 **Robot Forklift** | Autonomous robot project — National robotics winner | Arduino · Sensors · Motors |
-| 🧾 **Exam Control System** | Digital grading and control system | C++ · Embedded Systems |
+| 🧠 **Duplicate Analyzer** | AI-powered duplicate record detection | Python · Go · Vector Search |
+| 🤖 **Robot Forklift** | Autonomous robotics project, national winner | Arduino · Sensors · Motors |
+| 🧾 **Exam Control System** | Digital grading and exam management system | C++ · Embedded Systems |
 
 ---
 
-### 🧰 Skills & Tools
+## 🧰 Skills & Tools
 
-**Languages:** C++, Python, Go, JavaScript  
-**Frameworks:** React, Node.js, Next.js, Flask  
-**Hardware:** Arduino, IoT, Robotics, Sensors  
-**Cybersecurity:** Pen Testing, Secure Architecture, Network Defense  
-**Tools:** Docker, Git, Linux, Postgres, TailwindCSS, Framer Motion  
-
----
-
-### 🧾 Certificates
-- Cyber Army of Ethiopia — 3rd Cohort  
-- ThinkYoung + Boeing Aviation Program  
-- National Robotics Competition — Winner  
-- STEM Instructor — Gondar STEM Center  
-- INSA Graduate — Cybersecurity Field  
+**Languages:** Go · Python · C++ · JavaScript  
+**Frameworks / Backend:** Gin · Echo · Fiber · Node.js · Next.js · Flask  
+**Cybersecurity:** Pen Testing · Secure Architecture · Network Defense  
+**Hardware / IoT:** Arduino · Sensors · Robotics  
+**Tools:** Docker · Git · Linux · Postgres · TailwindCSS · Framer Motion  
 
 ---
 
-### 📊 GitHub Stats & Badges
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naodEthiop&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=00FFFF&icon_color=00FF88&text_color=C0C0C0" height="160" />
@@ -85,15 +78,15 @@ I’ve competed, taught, and developed projects across Ethiopia’s national and
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
-📧 [fkremariamfentahun66@gmail.com](mailto:fkremariamfentahun66@gmail.com)  
+📧 [Email](mailto:fkremariamfentahun66@gmail.com)  
 💬 [Telegram @naod2i](https://t.me/naod2i)  
-🌐 [Portfolio Website](https://fkremariamfentahunportfolio.netlify.app/)  
-💻 [GitHub Profile](https://github.com/naodEthiop)
+🌐 [Portfolio](https://fkremariamfentahunportfolio.netlify.app/)  
+💻 [GitHub](https://github.com/naodEthiop)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,100:00FFFF&height=60&section=footer&text=Stay%20Secure%20|%20Think%20Cyber%20|%20Build%20Smart&fontSize=18&fontColor=0A0A0A" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00FF88,100:00FFFF&height=60&section=footer&text=Stay%20Secure%20|%20Think%20Cyber%20|%20Build%20Smart&fontSize=18&fontColor=0A0A0A" />
 </p>
