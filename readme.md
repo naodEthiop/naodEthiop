@@ -14,107 +14,148 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Security_Aware-C1121F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Builder-0d1117?style=for-the-badge" />
 </p>
 
 ---
 
-## Hi, I'm Fkremariam (Naod)
+# Hi, I'm Fkremariam (Naod)
 
-Backend-focused software engineer building reliable systems with Go, with a growing focus on application security.
+Backend-focused software engineer from Ethiopia building scalable systems, developer tools, and AI-powered products with Go and modern web technologies.
 
-I like building backend services, developer tools, and workflow systems that are clear, practical, and ready for real use.
-
----
-
-## What I do
-
-- Build backend systems with Go  
-- Design APIs and structured services  
-- Create tools that save setup time and reduce repeated work  
-- Build systems with reliability and security in mind  
-- Learn application security through real projects  
+Interested in backend architecture, application security, and shipping practical products through fast execution and real-world projects.
 
 ---
 
-## Quick proof
+## Currently Building
 
-- Built a Go scaffolding tool for backend project setup  
-- Built a web recon tool for structured target discovery  
-- Built a real-time bingo platform with backend workflow thinking  
-- Built a CMS-backed portfolio with draft and publish flow  
+- MedBridge — AI-powered healthcare & medical tourism platform built during a Vercel hackathon
+- Backend tooling and automation projects in Go
+- Security-focused recon and workflow systems
+- Improving system design and secure backend architecture
 
 ---
 
-## Featured projects
+## What I Do
 
-### Lalibela CLI  
-Go backend scaffolding tool
+- Build backend systems with Go
+- Design APIs and scalable services
+- Create tools that reduce repeated work
+- Build systems with reliability and security in mind
+- Explore application security through practical projects
 
-- Creates structured backend project foundations  
-- Reduces repeated setup work  
-- Focused on clean backend organization  
+---
+
+## Featured Projects
+
+### Lalibela CLI
+
+Production-focused Go scaffolding tool for backend services.
+
+- Bootstraps clean backend architectures in seconds
+- Reduces repeated setup work
+- Focused on maintainable backend structure
 
 🔗 https://github.com/naodEthiop/lalibela-cli
 
 ---
 
-### Web Recon Tool  
-Security-focused recon project
+### Web Recon Tool
 
-- Helps with web target discovery  
-- Organizes recon steps in a cleaner way  
-- Built as part of my security learning path  
+Security-oriented reconnaissance workflow tool.
+
+- Structured target discovery workflows
+- Organizes recon processes efficiently
+- Built as part of my application security learning path
 
 🔗 https://github.com/naodEthiop/web_recon_tool
 
 ---
 
-### Scalable Bingo Platform  
-Real-time system design project
+### Multiplayer Bingo Platform
 
-- Built around real-time flows and backend logic  
-- Focused on structure and scalability  
-- Shows practical system design thinking  
+Real-time multiplayer backend experiment.
+
+- Real-time game-state synchronization
+- Event-driven backend workflows
+- Focused on scalability and practical system design
 
 🔗 https://github.com/naodEthiop/Multiplayer-Bingo-Game
 
 ---
 
-## Engineering style
+### MedBridge
 
-- Keep things simple  
-- Prefer structure over chaos  
-- Build for real use, not just demos  
-- Treat security and reliability as part of the product  
+AI-powered healthcare and medical tourism platform.
 
----
+- AI medical report analysis
+- Hospital and treatment recommendation workflows
+- Healthcare-focused product experimentation
+- Built during a hackathon sprint environment
 
-## Tech stack
-
-Backend  
-Go, REST APIs, PostgreSQL  
-
-Architecture  
-Clean architecture, modular design  
-
-DevOps  
-Docker, Git  
-
-Security awareness  
-Authentication flows, bcrypt, input validation, secure API thinking  
+Tech:
+Next.js • AI integrations • Backend systems • Deployment workflows
 
 ---
 
-## What I’m learning now
+## Engineering Philosophy
 
-- Secure API design  
-- Web reconnaissance and attack surface analysis  
-- Application security basics  
-- Better backend architecture  
+I enjoy building systems that are:
+
+- Practical
+- Scalable
+- Maintainable
+- Security-aware
+
+I care more about shipping useful products consistently than building flashy demos.
 
 ---
 
-## GitHub activity
+## Tech Stack
+
+### Backend
+- Go
+- REST APIs
+- PostgreSQL
+
+### Architecture
+- Clean Architecture
+- Modular Design
+- Workflow-Oriented Systems
+
+### DevOps
+- Docker
+- Git
+- Vercel
+
+### Security Awareness
+- Authentication flows
+- bcrypt
+- Input validation
+- Secure API design thinking
+
+---
+
+## What I'm Learning
+
+- Secure API architecture
+- Web reconnaissance and attack-surface analysis
+- Application security fundamentals
+- Advanced backend architecture
+- AI-integrated systems
+
+---
+
+## Open To
+
+- Backend engineering internships
+- Hackathons and startup collaborations
+- Open-source collaborations
+- AI x Backend projects
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naodEthiop&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
@@ -125,9 +166,10 @@ Authentication flows, bcrypt, input validation, secure API thinking
 
 ## Contact
 
-- Portfolio: https://portfolio-naod-ethiop.vercel.app/  
-- LinkedIn: https://www.linkedin.com/in/fkremariam-fentahun-b9a902390  
-- Telegram: https://t.me/naodbuilds  
+- Portfolio: https://portfolio-naod-ethiop.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/fkremariam-fentahun-b9a902390
+- Telegram: https://t.me/naodbuilds
+- YouTube: https://www.youtube.com/@NaodBuilds
 
 ---
 
@@ -136,5 +178,5 @@ Authentication flows, bcrypt, input validation, secure API thinking
 </p>
 
 <p align="center">
-  <em>Build clear systems. Keep learning. Stay security-aware.</em>
+  <em>Build fast. Stay curious. Engineer reliable systems.</em>
 </p>
