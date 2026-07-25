@@ -1,182 +1,74 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=230&section=header&text=NaodEthiop&fontSize=64&fontColor=00ADD8&fontAlignY=38&animation=twinkling" width="100%" />
-</p>
+# Hi, I'm Fkremariam (Naod) Fentahun 👋
+### Go Backend Engineer & Security Tool Developer
 
-<p align="center">
-  <a href="https://portfolio-naod-ethiop.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/fkremariam-fentahun-b9a902390">LinkedIn</a> •
-  <a href="https://www.upwork.com/freelancers/~01531376e3abd2dc50">Upwork</a> •
-  <a href="https://t.me/naodbuilds">Telegram</a> •
-  <a href="https://www.youtube.com/@NaodBuilds">YouTube</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security_Aware-C1121F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Builder-0d1117?style=for-the-badge" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-naod.dev-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-naod-ethiop.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fkremariam_Fentahun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fkremariam-fentahun-b9a902390)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01531376e3abd2dc50?mp_source=share)
+[![Email](https://img.shields.io/badge/Email-fkremariamfentahun66%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fkremariamfentahun66@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@Naod2i-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Naod2i)
 
 ---
 
-# Hi, I'm Fkremariam (Naod)
+## ⚡ Services & What I Build
+I build production-ready backend microservices, developer automation tooling, and security-focused systems in **Go**.
 
-Backend-focused software engineer from Ethiopia building scalable systems, developer tools, and AI-powered products with Go and modern web technologies.
-
-Interested in backend architecture, application security, and shipping practical products through fast execution and real-world projects.
-
----
-
-## Currently Building
-
-- MedBridge — AI-powered healthcare & medical tourism platform built during a Vercel hackathon
-- Backend tooling and automation projects in Go
-- Security-focused recon and workflow systems
-- Improving system design and secure backend architecture
+**Available for freelance contracts, bug bounties, and security audits:**
+- 🚀 **Go Backend Microservices:** High-performance REST/gRPC APIs, clean architecture, and Dockerized microservices.
+- 🛡️ **API Security Audits:** Web surface analysis, API vulnerability assessment, and security tooling.
+- ⚙️ **PostgreSQL & Database Systems:** Schema design, query optimization, and Supabase integration.
 
 ---
 
-## What I Do
+## 🛠️ Tech Stack & Tooling
 
-- Build backend systems with Go
-- Design APIs and scalable services
-- Create tools that reduce repeated work
-- Build systems with reliability and security in mind
-- Explore application security through practical projects
-
----
-
-## Featured Projects
-
-### Lalibela CLI
-
-Production-focused Go scaffolding tool for backend services.
-
-- Bootstraps clean backend architectures in seconds
-- Reduces repeated setup work
-- Focused on maintainable backend structure
-
-🔗 https://github.com/naodEthiop/lalibela-cli
+* **Languages & Core:** Go (Golang), SQL, Bash/Shell, Python, TypeScript
+* **Backend Frameworks:** Gin, Echo, Fiber, `net/http`
+* **Databases & Caching:** PostgreSQL, Supabase, Redis
+* **DevOps & Infrastructure:** Docker, Git/GitHub Actions, Linux Administration, WinGet
+* **Security & Recon Tooling:** Network Reconnaissance, Port Scanning, Shodan API, Nmap, Vulnerability Assessment
 
 ---
 
-### Web Recon Tool
+## 🚀 Featured Projects
 
-Security-oriented reconnaissance workflow tool.
-
-- Structured target discovery workflows
-- Organizes recon processes efficiently
-- Built as part of my application security learning path
-
-🔗 https://github.com/naodEthiop/web_recon_tool
+| Project | Description | Stack / Distribution |
+| :--- | :--- | :--- |
+| **[Lalibela CLI](https://github.com/naodEthiop/lalibela-cli)** | Production-grade Go scaffolding tool that generates structured backend services with clean architecture. | `Go` `WinGet` `Docker` |
+| **[Web Recon Tool](https://github.com/naodEthiop/web_recon_tool)** | Security framework for mapping exposed attack surfaces and organizing reconnaissance data. | `Go` `Shodan API` `Nmap` |
+| **[MedBridge AI Agent](https://github.com/naodEthiop/MedBridge_AI_Agent)** | Real-time AI healthcare triage & clinical diagnostics support platform built for high reliability. | `Go` `Next.js` `PostgreSQL` |
 
 ---
 
-### Multiplayer Bingo Platform
+## 📊 Quick Installation Proof
 
-Real-time multiplayer backend experiment.
+Try out my Go CLI backend generator directly from your terminal:
 
-- Real-time game-state synchronization
-- Event-driven backend workflows
-- Focused on scalability and practical system design
+```bash
+# Windows via WinGet
+winget install NaodEthiop.Lalibela
 
-🔗 https://github.com/naodEthiop/Multiplayer-Bingo-Game
-
----
-
-### MedBridge
-
-AI-powered healthcare and medical tourism platform.
-
-- AI medical report analysis
-- Hospital and treatment recommendation workflows
-- Healthcare-focused product experimentation
-- Built during a hackathon sprint environment
-
-Tech:
-Next.js • AI integrations • Backend systems • Deployment workflows
+# Or via Go install
+go install github.com/naodEthiop/lalibela-cli/cmd/lalibela@latest
+```
 
 ---
 
-## Engineering Philosophy
+## 🏆 Highlights & Achievements
 
-I enjoy building systems that are:
-
-- Practical
-- Scalable
-- Maintainable
-- Security-aware
-
-I care more about shipping useful products consistently than building flashy demos.
+* **Winner** – National Robotics Competition
+* **Winner** – 7th National Science Fair
+* **Cohort Member** – Cyber Army of Ethiopia (Cohort 3)
 
 ---
 
-## Tech Stack
+## 🌐 Connect Across the Web
 
-### Backend
-- Go
-- REST APIs
-- PostgreSQL
-
-### Architecture
-- Clean Architecture
-- Modular Design
-- Workflow-Oriented Systems
-
-### DevOps
-- Docker
-- Git
-- Vercel
-
-### Security Awareness
-- Authentication flows
-- bcrypt
-- Input validation
-- Secure API design thinking
-
----
-
-## What I'm Learning
-
-- Secure API architecture
-- Web reconnaissance and attack-surface analysis
-- Application security fundamentals
-- Advanced backend architecture
-- AI-integrated systems
-
----
-
-## Open To
-
-- Backend engineering internships
-- Hackathons and startup collaborations
-- Open-source collaborations
-- AI x Backend projects
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naodEthiop&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naodEthiop&theme=github-dark&hide_border=true" width="48%" />
-</p>
-
----
-
-## Contact
-
-- Portfolio: https://portfolio-naod-ethiop.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/fkremariam-fentahun-b9a902390
-- Telegram: https://t.me/naodbuilds
-- YouTube: https://www.youtube.com/@NaodBuilds
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naodEthiop&color=00ADD8&style=flat-square&label=PROFILE+VIEWS" />
-</p>
-
-<p align="center">
-  <em>Build fast. Stay curious. Engineer reliable systems.</em>
-</p>
+* 💼 **Upwork Profile:** [Fkremariam Fentahun on Upwork](https://www.upwork.com/freelancers/~01531376e3abd2dc50?mp_source=share)
+* 👔 **LinkedIn:** [Fkremariam Fentahun](https://www.linkedin.com/in/fkremariam-fentahun-b9a902390)
+* 💬 **Telegram:** [@Naod2i](https://t.me/Naod2i) | Channel: [@naodbuilds](https://t.me/naodbuilds)
+* 🎥 **YouTube:** [@NaodBuilds](https://www.youtube.com/@NaodBuilds)
+* 🐦 **X / Twitter:** [@naodEthiop](https://x.com/naodEthiop)
+* 📝 **Dev.to:** [@naodEthiop](https://dev.to/naodEthiop)
+* 🤖 **Reddit:** [u/naodEthiop](https://www.reddit.com/user/naodEthiop/)
+* 🌐 **Portfolio:** [portfolio-naod-ethiop.vercel.app](https://portfolio-naod-ethiop.vercel.app/)
+* ✉️ **Email:** [fkremariamfentahun66@gmail.com](mailto:fkremariamfentahun66@gmail.com)
